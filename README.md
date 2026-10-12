@@ -1,15 +1,10 @@
-# hello_world
+# Project Tugas Kuliah hello_world
 
 A new Flutter project.
 
-![Screenshot hello_world](images/01.png)
-
 # Laporan Praktikum Pemrograman Mobile
 
-**Nama:** Rangga Saputra  
-**NPM:** 2340304043
-
-## Praktikum 5: Widget Material Design & Cupertino
+## Praktikum: Widget Material Design & Cupertino
 
 ### Langkah 1: Cupertino Button dan Loading Bar
 **Penjelasan:** Mengimplementasikan widget bergaya iOS menggunakan library Cupertino. Menampilkan tombol (CupertinoButton) dan indikator pemuatan (CupertinoActivityIndicator) yang memiliki tampilan khas perangkat Apple.
